@@ -51,8 +51,6 @@ export const fetchEastNBATeams = async () => {
       }
     );
 
-    console.log(data);
-
     const eastTeams = data.response.filter((team: NBATeam) =>
       eastConferenceTeamsList
         .map((teamName) => teamName.toLowerCase())
@@ -60,6 +58,48 @@ export const fetchEastNBATeams = async () => {
     );
 
     return eastTeams;
+  } catch (error) {
+    console.error("Klaida gaunant NBA komandas:", error);
+  }
+};
+
+const westConferenceTeamsList = [
+  "Denver Nuggets",
+  "Minnesota Timberwolves",
+  "Oklahoma City Thunder",
+  "Portland Trail Blazers",
+  "Utah Jazz",
+  "Golden State Warriors",
+  "Los Angeles Clippers",
+  "Los Angeles Lakers",
+  "Phoenix Suns",
+  "Sacramento Kings",
+  "Dallas Mavericks",
+  "Houston Rockets",
+  "Memphis Grizzlies",
+  "New Orleans Pelicans",
+  "San Antonio Spurs",
+];
+
+export const fetchWestNbaTeams = async () => {
+  try {
+    const { data } = await axios(
+      "https://v1.basketball.api-sports.io/teams?league=12&season=2023-2024",
+      {
+        headers: {
+          "x-rapidapi-host": "v1.basketball.api-sports.io",
+          "x-rapidapi-key": `${API_KEY}`,
+        },
+      }
+    );
+
+    const WestTeams = data.response.filter((team: NBATeam) =>
+      westConferenceTeamsList
+        .map((teamName) => teamName.toLowerCase())
+        .includes(team.name.toLowerCase())
+    );
+
+    return WestTeams;
   } catch (error) {
     console.error("Klaida gaunant NBA komandas:", error);
   }

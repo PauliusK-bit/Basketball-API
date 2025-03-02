@@ -15,6 +15,7 @@ export type NBATeam = {
 export type NBATeamsPageContextType = {
   teams: NBATeam[];
   eastTeams: NBATeam[];
+  westTeams: NBATeam[];
   loading: boolean;
 };
 

@@ -1,27 +1,29 @@
 import {
+  Button,
   Card,
   CardActionArea,
+  CardActions,
   CardContent,
   CardMedia,
   Typography,
 } from "@mui/material";
 import { useNBATeams } from "../NBATeamsPage/NBATeamsPageContexProvider";
 
-const EastTeamsList = () => {
-  const { eastTeams, loading } = useNBATeams();
+const WesternConferenceTeams = () => {
+  const { westTeams, loading } = useNBATeams();
 
   if (loading) return <p>Loading...</p>;
 
   return (
     <div>
-      <h2>Rytų konferencijos komandos</h2>
+      <h2>Vakarų konferencijos komandos</h2>
       <div style={{ display: "flex", flexWrap: "wrap", gap: "16px" }}>
-        {eastTeams.map((team) => (
+        {westTeams.map((team) => (
           <Card key={team.id} sx={{ maxWidth: 345 }}>
             <CardActionArea>
               <CardMedia
                 component="img"
-                height="200"
+                height="140"
                 image={team.logo}
                 alt={team.name}
               />
@@ -31,6 +33,11 @@ const EastTeamsList = () => {
                 </Typography>
               </CardContent>
             </CardActionArea>
+            <CardActions>
+              {/* <Button size="small" color="primary">
+                Share
+              </Button> */}
+            </CardActions>
           </Card>
         ))}
       </div>
@@ -38,4 +45,4 @@ const EastTeamsList = () => {
   );
 };
 
-export default EastTeamsList;
+export default WesternConferenceTeams;
