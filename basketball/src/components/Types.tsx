@@ -26,3 +26,16 @@ export type NBATeamsContextProviderProps = {
 export type NBATeamItemProps = {
   data: NBATeam;
 };
+
+export interface EuroleagueTeam {
+  id: number;
+  name: string;
+  logo: string;
+}
+
+export interface EuroleaguePlayer {
+  id: number;
+  name: string;
+  number: string;
+  position: string;
+}

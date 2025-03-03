@@ -38,7 +38,7 @@ export const NBATeamsContextProvider: React.FC<
         }
 
         const westTeamsData = await fetchWestNbaTeams();
-        console.log("West teams data:", westTeamsData);
+        // console.log("West teams data:", westTeamsData);
         if (Array.isArray(westTeamsData)) {
           setWestTeams(westTeamsData);
         }

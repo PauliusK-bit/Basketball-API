@@ -1,7 +1,7 @@
 import axios from "axios";
 import { NBATeam } from "../components/Types";
 
-const API_KEY = "fdf47b5c520ae3a1c5df57e7fff7406e";
+export const API_KEY = "fdf47b5c520ae3a1c5df57e7fff7406e";
 
 export const fetchAllNBATeams = async () => {
   try {

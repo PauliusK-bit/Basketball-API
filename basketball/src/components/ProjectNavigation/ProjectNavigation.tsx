@@ -8,13 +8,19 @@ const ProjectNavigation = () => {
           <li className="nav-item">
             <NavLink className="nav-link" to={"nba/west"} end>
               {" "}
-              West conference
+              NBA West conference
             </NavLink>
           </li>
           <li className="nav-item">
             <NavLink className="nav-link" to={"nba/east"} end>
               {" "}
-              East conference
+              NBA East conference
+            </NavLink>
+          </li>
+          <li className="nav-item">
+            <NavLink className="nav-link" to={"europe/euroleague"} end>
+              {" "}
+              Euroleague teams
             </NavLink>
           </li>
         </ul>
