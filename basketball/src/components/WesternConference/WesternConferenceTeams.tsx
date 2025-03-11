@@ -1,5 +1,4 @@
 import {
-  Button,
   Card,
   CardActionArea,
   CardActions,
@@ -7,7 +6,7 @@ import {
   CardMedia,
   Typography,
 } from "@mui/material";
-import { useNBATeams } from "../NBATeamsPage/NBATeamsPageContexProvider";
+import { useNBATeams } from "../../pages/NBATeamsPage/NBATeamsPageContexProvider";
 
 const WesternConferenceTeams = () => {
   const { westTeams, loading } = useNBATeams();
@@ -25,19 +24,15 @@ const WesternConferenceTeams = () => {
                 component="img"
                 height="140"
                 image={team.logo}
-                alt={team.name}
+                alt={team.teamName}
               />
               <CardContent>
                 <Typography gutterBottom variant="h5" component="div">
-                  {team.name}
+                  {team.teamName}
                 </Typography>
               </CardContent>
             </CardActionArea>
-            <CardActions>
-              {/* <Button size="small" color="primary">
-                Share
-              </Button> */}
-            </CardActions>
+            <CardActions></CardActions>
           </Card>
         ))}
       </div>

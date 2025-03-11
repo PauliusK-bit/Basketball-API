@@ -5,7 +5,7 @@ import {
   CardMedia,
   Typography,
 } from "@mui/material";
-import { useNBATeams } from "../NBATeamsPage/NBATeamsPageContexProvider";
+import { useNBATeams } from "../../pages/NBATeamsPage/NBATeamsPageContexProvider";
 
 const EastTeamsList = () => {
   const { eastTeams, loading } = useNBATeams();
@@ -23,11 +23,11 @@ const EastTeamsList = () => {
                 component="img"
                 height="200"
                 image={team.logo}
-                alt={team.name}
+                alt={team.teamName}
               />
               <CardContent>
                 <Typography gutterBottom variant="h5" component="div">
-                  {team.name}
+                  {team.teamName}
                 </Typography>
               </CardContent>
             </CardActionArea>

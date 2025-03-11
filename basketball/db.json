@@ -1,0 +1,984 @@
+{
+  "seasons": [
+    {
+      "id": "1",
+      "season": 2024
+    }
+  ],
+  "countries": [
+    {
+      "id": 1,
+      "name": "Australia",
+      "code": "AU",
+      "flag": "https://media.api-sports.io/flags/au.svg"
+    },
+    {
+      "id": 2,
+      "name": "Austria",
+      "code": "AT",
+      "flag": "https://media.api-sports.io/flags/at.svg"
+    },
+    {
+      "id": 3,
+      "name": "France",
+      "code": "FR",
+      "flag": "https://media.api-sports.io/flags/fr.svg"
+    },
+    {
+      "id": 4,
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    {
+      "id": 5,
+      "name": "Argentina",
+      "code": "AR",
+      "flag": "https://media.api-sports.io/flags/ar.svg"
+    },
+    {
+      "id": 6,
+      "name": "Canada",
+      "code": "CA",
+      "flag": "https://media.api-sports.io/flags/ca.svg"
+    },
+    {
+      "id": 7,
+      "name": "Croatia",
+      "code": "HR",
+      "flag": "https://media.api-sports.io/flags/hr.svg"
+    },
+    {
+      "id": 8,
+      "name": "China",
+      "code": "CN",
+      "flag": "https://media.api-sports.io/flags/cn.svg"
+    },
+    {
+      "id": 9,
+      "name": "Estonia",
+      "code": "EE",
+      "flag": "https://media.api-sports.io/flags/ee.svg"
+    },
+    {
+      "id": 10,
+      "name": "Germany",
+      "code": "DE",
+      "flag": "https://media.api-sports.io/flags/de.svg"
+    },
+    {
+      "id": 11,
+      "name": "Greece",
+      "code": "GR",
+      "flag": "https://media.api-sports.io/flags/gr.svg"
+    },
+    {
+      "id": 12,
+      "name": "Israel",
+      "code": "IL",
+      "flag": "https://media.api-sports.io/flags/il.svg"
+    },
+    {
+      "id": 13,
+      "name": "Italy",
+      "code": "IT",
+      "flag": "https://media.api-sports.io/flags/it.svg"
+    },
+    {
+      "id": 14,
+      "name": "Japan",
+      "code": "JP",
+      "flag": "https://media.api-sports.io/flags/jp.svg"
+    },
+    {
+      "id": 15,
+      "name": "Lithuania",
+      "code": "LT",
+      "flag": "https://media.api-sports.io/flags/lt.svg"
+    },
+    {
+      "id": 16,
+      "name": "Norway",
+      "code": "NO",
+      "flag": "https://media.api-sports.io/flags/no.svg"
+    },
+    {
+      "id": 17,
+      "name": "Poland",
+      "code": "PL",
+      "flag": "https://media.api-sports.io/flags/pl.svg"
+    },
+    {
+      "id": 18,
+      "name": "Serbia",
+      "code": "RS",
+      "flag": "https://media.api-sports.io/flags/rs.svg"
+    },
+    {
+      "id": 19,
+      "name": "Slovenia",
+      "code": "SI",
+      "flag": "https://media.api-sports.io/flags/si.svg"
+    },
+    {
+      "id": 20,
+      "name": "Spain",
+      "code": "ES",
+      "flag": "https://media.api-sports.io/flags/es.svg"
+    },
+    {
+      "id": 21,
+      "name": "Turkey",
+      "code": "TR",
+      "flag": "https://media.api-sports.io/flags/tr.svg"
+    },
+    {
+      "id": 22,
+      "name": "United Kingdom",
+      "code": "GB",
+      "flag": "https://media.api-sports.io/flags/gb.svg"
+    },
+    {
+      "id": 23,
+      "name": "Latvia",
+      "code": "LV",
+      "flag": "https://media.api-sports.io/flags/lv.svg"
+    },
+    {
+      "id": 24,
+      "name": "Philippines",
+      "code": "PH",
+      "flag": "https://media.api-sports.io/flags/ph.svg"
+    }
+  ],
+  "eastConference": [
+    {
+      "teamId": 1,
+      "teamName": "Boston Celtics",
+      "city": "Boston",
+      "arena": "TD Garden",
+      "arenaImage": "https://cdn.getyourguide.com/img/tour/84b2809699611c14.png/99.jpg",
+      "logo": "https://cdn.nba.com/logos/nba/1610612738/primary/L/logo.svg"
+    },
+    {
+      "teamId": 2,
+      "teamName": "Brooklyn Nets",
+      "city": "Brooklyn",
+      "arena": "Barclays Center",
+      "arenaImage": "https://cdn.nba.com/teams/legacy/www.nba.com/nets/sites/nets/files/netscourt_910x575.jpg",
+      "logo": "https://cdn.nba.com/logos/nba/1610612751/primary/L/logo.svg"
+    },
+    {
+      "teamId": 3,
+      "teamName": "New York Knicks",
+      "city": "New York",
+      "arena": "Madison Square Garden",
+      "arenaImage": "https://pbs.twimg.com/media/EuyLFksWgAA7A9n.jpg",
+      "logo": "https://cdn.nba.com/logos/nba/1610612752/primary/L/logo.svg"
+    },
+    {
+      "teamId": 4,
+      "teamName": "Philadelphia 76ers",
+      "city": "Philadelphia",
+      "arena": "Wells Fargo Center",
+      "arenaImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_R2yxtqdPC6eUGrT7eXrHm7awGXCDqxHVXA&s",
+      "logo": "https://cdn.nba.com/logos/nba/1610612755/primary/L/logo.svg"
+    },
+    {
+      "teamId": 5,
+      "teamName": "Toronto Raptors",
+      "city": "Toronto",
+      "arena": "Scotiabank Arena",
+      "arenaImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLOG5tYl2lytGpKfy0es4nAqzrSictklywTg&s",
+      "logo": "https://cdn.nba.com/logos/nba/1610612761/primary/L/logo.svg"
+    },
+    {
+      "teamId": 6,
+      "teamName": "Miami Heat",
+      "city": "Miami",
+      "arena": "FTX Arena",
+      "arenaImage": "https://imageio.forbes.com/specials-images/imageserve/66ed7d267112be48014bf60f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "logo": "https://cdn.nba.com/logos/nba/1610612748/primary/L/logo.svg"
+    },
+    {
+      "teamId": 7,
+      "teamName": "Chicago Bulls",
+      "city": "Chicago",
+      "arena": "United Center",
+      "arenaImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUO7gY7wxFrT8rtnjV9KSpI6DQ0Ee9VcQiPQ&s",
+      "logo": "https://cdn.nba.com/logos/nba/1610612741/primary/L/logo.svg"
+    },
+    {
+      "teamId": 8,
+      "teamName": "Cleveland Cavaliers",
+      "city": "Cleveland",
+      "arena": "Rocket Mortgage FieldHouse",
+      "arenaImage": "https://static.wixstatic.com/media/fff9be_90732ff985ed4a65a1c8f6bb5e4c03dd~mv2.jpg/v1/fill/w_1000,h_750,al_c,q_85,usm_0.66_1.00_0.01/fff9be_90732ff985ed4a65a1c8f6bb5e4c03dd~mv2.jpg",
+      "logo": "https://cdn.nba.com/logos/nba/1610612739/primary/L/logo.svg"
+    },
+    {
+      "teamId": 9,
+      "teamName": "Indiana Pacers",
+      "city": "Indianapolis",
+      "arena": "Gainbridge Fieldhouse",
+      "arenaImage": "https://res.cloudinary.com/simpleview/image/upload/v1651859508/clients/indiana/Bankers_Life_Fieldhouse_2_1cbadfcc-872a-4680-9389-4d77534d7a86.jpg",
+      "logo": "https://cdn.nba.com/logos/nba/1610612754/primary/L/logo.svg"
+    },
+    {
+      "teamId": 10,
+      "teamName": "Detroit Pistons",
+      "city": "Detroit",
+      "arena": "Little Caesars Arena",
+      "arenaImage": "https://www.freep.com/gcdn/-mm-/57d27fb7ab6e87dc79319cca5217d1da937b6ef1/c=0-0-1086-613/local/-/media/2017/05/17/DetroitFreeP/DetroitFreePress/636306158844890957-Capture2.PNG",
+      "logo": "https://cdn.nba.com/logos/nba/1610612765/primary/L/logo.svg"
+    },
+    {
+      "teamId": 11,
+      "teamName": "Atlanta Hawks",
+      "city": "Atlanta",
+      "arena": "State Farm Arena",
+      "arenaImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTs21ha6VzHmjJfyrmqwZB4LAAK0s_XygGjQ&s",
+      "logo": "https://cdn.nba.com/logos/nba/1610612737/primary/L/logo.svg"
+    },
+    {
+      "teamId": 12,
+      "teamName": "Charlotte Hornets",
+      "city": "Charlotte",
+      "arena": "Spectrum Center",
+      "arenaImage": "https://frontofficesports.com/wp-content/uploads/2022/06/FOS-PM-22-6.14-Charlotte-Spectrum-Center.jpg",
+      "logo": "https://cdn.nba.com/logos/nba/1610612766/primary/L/logo.svg"
+    },
+    {
+      "teamId": 13,
+      "teamName": "Orlando Magic",
+      "city": "Orlando",
+      "arena": "Amway Center",
+      "arenaImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQelCYHza1leLe4992u04iuH_wdZXSoWIDkVA&s",
+      "logo": "https://cdn.nba.com/logos/nba/1610612753/primary/L/logo.svg"
+    },
+    {
+      "teamId": 14,
+      "teamName": "Washington Wizards",
+      "city": "Washington",
+      "arena": "Capital One Arena",
+      "arenaImage": "https://media.tacdn.com/media/attractions-splice-spp-674x446/11/cb/97/69.jpg",
+      "logo": "https://cdn.nba.com/logos/nba/1610612764/primary/L/logo.svg"
+    },
+    {
+      "teamId": 15,
+      "teamName": "Milwaukee Bucks",
+      "city": "Milwaukee",
+      "arena": "Fiserv Forum",
+      "arenaImage": "https://i.insider.com/5b9190c42badb90df11f4ed5?width=700",
+      "logo": "https://cdn.nba.com/logos/nba/1610612749/primary/L/logo.svg"
+    }
+  ],
+  "westConference": [
+    {
+      "teamId": 16,
+      "teamName": "Los Angeles Lakers",
+      "city": "Los Angeles",
+      "arena": "Crypto.com Arena",
+      "arenaImage": "https://i.ytimg.com/vi/eFGNXvJwIP8/maxresdefault.jpg",
+      "logo": "https://cdn.nba.com/logos/nba/1610612747/primary/L/logo.svg"
+    },
+    {
+      "teamId": 17,
+      "teamName": "Los Angeles Clippers",
+      "city": "Los Angeles",
+      "arena": "Crypto.com Arena",
+      "arenaImage": "https://www.usatoday.com/gcdn/presto/2022/11/22/USAT/79d2d9a3-9364-4ea5-a912-2c28250b5368-render2_3.jpg?crop=3000,2000,x0,y0",
+      "logo": "https://cdn.nba.com/logos/nba/1610612746/primary/L/logo.svg"
+    },
+    {
+      "teamId": 18,
+      "teamName": "Golden State Warriors",
+      "city": "San Francisco",
+      "arena": "Chase Center",
+      "arenaImage": "https://i.insider.com/5d669acd2e22af08f8124342?width=800&format=jpeg&auto=webp",
+      "logo": "https://cdn.nba.com/logos/nba/1610612744/primary/L/logo.svg"
+    },
+    {
+      "teamId": 19,
+      "teamName": "Phoenix Suns",
+      "city": "Phoenix",
+      "arena": "Footprint Center",
+      "arenaImage": "https://ewscripps.brightspotcdn.com/dims4/default/73f2457/2147483647/strip/true/crop/1692x1128+0+0/resize/1280x853!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F80%2Fd2%2F3104bf324aeaa48daf8db791fe7b%2Fvirtual-court-signage.jpg",
+      "logo": "https://cdn.nba.com/logos/nba/1610612756/primary/L/logo.svg"
+    },
+    {
+      "teamId": 20,
+      "teamName": "Denver Nuggets",
+      "city": "Denver",
+      "arena": "Ball Arena",
+      "arenaImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/11/8b/3a/ab.jpg",
+      "logo": "https://cdn.nba.com/logos/nba/1610612743/primary/L/logo.svg"
+    },
+    {
+      "teamId": 21,
+      "teamName": "Portland Trail Blazers",
+      "city": "Portland",
+      "arena": "Moda Center",
+      "arenaImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcYTsjEZUirYgqpO3l_RlRESnc_OR4zmSqAg&s",
+      "logo": "https://cdn.nba.com/logos/nba/1610612757/primary/L/logo.svg"
+    },
+    {
+      "teamId": 22,
+      "teamName": "Utah Jazz",
+      "city": "Salt Lake City",
+      "arena": "Vivint Arena",
+      "arenaImage": "https://www.visitutah.com/azure/cmsroot/visitutah/media/site-assets/three-season-photography/wasatch-metro/salt-lake-city-2/utah_jazz-2_salt-lake-city_laegever-jason_2021.jpg",
+      "logo": "https://cdn.nba.com/logos/nba/1610612762/primary/L/logo.svg"
+    },
+    {
+      "teamId": 23,
+      "teamName": "Dallas Mavericks",
+      "city": "Dallas",
+      "arena": "American Airlines Center",
+      "arenaImage": "https://static.wixstatic.com/media/fff9be_750c0269e59c4f0c908bffeb7197a5ef~mv2.jpg/v1/fill/w_1000,h_750,al_c,q_85,usm_0.66_1.00_0.01/fff9be_750c0269e59c4f0c908bffeb7197a5ef~mv2.jpg",
+      "logo": "https://cdn.nba.com/logos/nba/1610612742/primary/L/logo.svg"
+    },
+    {
+      "teamId": 24,
+      "teamName": "Minnesota Timberwolves",
+      "city": "Minneapolis",
+      "arena": "Target Center",
+      "arenaImage": "https://www.sportsvideo.org/wp-content/uploads/2021/01/Minnesota-Timberwolves-Featured-scaled-e1611327126860.jpeg",
+      "logo": "https://cdn.nba.com/logos/nba/1610612750/primary/L/logo.svg"
+    },
+    {
+      "teamId": 25,
+      "teamName": "Oklahoma City Thunder",
+      "city": "Oklahoma City",
+      "arena": "Paycom Center",
+      "arenaImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_lwbUQbUxwUF4lDSxpW56qbNPBR0X2cIaDQ&s",
+      "logo": "https://cdn.nba.com/logos/nba/1610612760/primary/L/logo.svg"
+    },
+    {
+      "teamId": 26,
+      "teamName": "Sacramento Kings",
+      "city": "Sacramento",
+      "arena": "Golden 1 Center",
+      "arenaImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkk5_0GIEZagOB2i_pP_yU_PrfqBuEWeQefQ&s",
+      "logo": "https://cdn.nba.com/logos/nba/1610612758/primary/L/logo.svg"
+    },
+    {
+      "teamId": 27,
+      "teamName": "Memphis Grizzlies",
+      "city": "Memphis",
+      "arena": "FedExForum",
+      "arenaImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI4W11fLZixQQuMHxjafL_JMnATD840iNq7A&s",
+      "logo": "https://cdn.nba.com/logos/nba/1610612763/primary/L/logo.svg"
+    },
+    {
+      "teamId": 28,
+      "teamName": "New Orleans Pelicans",
+      "city": "New Orleans",
+      "arena": "Smoothie King Center",
+      "arenaImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyOCAqm9SafT__xXQxCIBFMxfHanpU99sb7Q&s",
+      "logo": "https://cdn.nba.com/logos/nba/1610612740/primary/L/logo.svg"
+    },
+    {
+      "teamId": 29,
+      "teamName": "San Antonio Spurs",
+      "city": "San Antonio",
+      "arena": "AT&T Center",
+      "arenaImage": "https://cdn.nba.com/teams/legacy/www.nba.com/spurs/sites/spurs/files/gettyimages-493265248_master_0.jpg",
+      "logo": "https://cdn.nba.com/logos/nba/1610612759/primary/L/logo.svg"
+    },
+    {
+      "teamId": 30,
+      "teamName": "Houston Rockets",
+      "city": "Houston",
+      "arena": "Toyota Center",
+      "arenaImage": "https://s.yimg.com/ny/api/res/1.2/zykSKOdihHv1RSblinSDlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MQ--/https://s.yimg.com/os/en/blogs/sptusnbaexperts/Seems-like-Chandler-Parsons-grew-some-during-the-offseason.-Image-via-www.nba_.com-rockets.jpg",
+      "logo": "https://cdn.nba.com/logos/nba/1610612745/primary/L/logo.svg"
+    }
+  ],
+  "leagues": [
+    {
+      "country": "Australia",
+      "league": "NBL",
+      "teams": 10,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/NBL_%28Australia%29_logo.svg/1200px-NBL_%28Australia%29_logo.svg.png",
+      "leagueId": 1,
+      "id": 1
+    },
+    {
+      "country": "Austria",
+      "league": "Austrian Basketball Bundesliga",
+      "teams": 10,
+      "logo": "https://www.thesportsdb.com/images/media/league/badge/mbatnq1650474025.png",
+      "leagueId": 2,
+      "id": 2
+    },
+    {
+      "country": "France",
+      "league": "LNB Pro A",
+      "teams": 18,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/4/4c/Ligue_Nationale_de_Basket_logo.svg",
+      "leagueId": 3,
+      "id": 3
+    },
+    {
+      "country": "USA",
+      "league": "NBA",
+      "teams": 30,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4npez3UobAAp5jNY6F58daaLj0Qd8XS-vtQ&s",
+      "leagueId": 4,
+      "id": 4
+    },
+    {
+      "country": "Argentina",
+      "league": "Liga Nacional de Básquet",
+      "teams": 20,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnr1XwN5afoPsbMBUWqlQbMS_YVWa4uu9hGw&s",
+      "leagueId": 5,
+      "id": 5
+    },
+    {
+      "country": "Canada",
+      "league": "Canadian Elite Basketball League",
+      "teams": 10,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTluA70VNQ61VLiqrMC49YLcJZYKUR71riFSA&s",
+      "leagueId": 6,
+      "id": 6
+    },
+    {
+      "country": "Croatia",
+      "league": "HT Premijer liga",
+      "teams": 12,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSxac_xnAjS0IKzGI08YIn1hl5EjN_pbr1zQ&s",
+      "leagueId": 7,
+      "id": 7
+    },
+    {
+      "country": "China",
+      "league": "Chinese Basketball Association",
+      "teams": 20,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWgrGe0AR65Fb_JXEjtK31TCiguo_eY24ASQ&s",
+      "leagueId": 8,
+      "id": 8
+    },
+    {
+      "country": "Estonia",
+      "league": "KML",
+      "teams": 8,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGyaR9o1-JqX1GKEivvdqLxdHx6fJQTT3m_Q&s",
+      "leagueId": 9,
+      "id": 9
+    },
+    {
+      "country": "Latvia",
+      "league": "Latvian-Estonian Basketball League",
+      "teams": 14,
+      "logo": "https://www.estlatbl.com/cache/basket/public/news2_img/_380x380x1/6317_PAF_LatvianEstonia.png",
+      "leagueId": 10,
+      "id": 10
+    },
+    {
+      "country": "Germany",
+      "league": "BBL",
+      "teams": 18,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/1/17/EasyCredit_BBL_logo.png",
+      "leagueId": 11,
+      "id": 11
+    },
+    {
+      "country": "Greece",
+      "league": "Greek Basket League",
+      "teams": 12,
+      "logo": "https://www.thesportsdb.com/images/media/league/badge/z39ouv1667032625.png",
+      "leagueId": 12,
+      "id": 12
+    },
+    {
+      "country": "Israel",
+      "league": "Israeli Basketball Premier League",
+      "teams": 12,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/4/47/Israel_basketball_logo.png",
+      "leagueId": 13,
+      "id": 13
+    },
+    {
+      "country": "Italy",
+      "league": "Lega Basket Serie A",
+      "teams": 16,
+      "logo": "https://images.eurohoops.net/2020/03/0c6f40ee-legabasket-625x375.jpg",
+      "leagueId": 14,
+      "id": 14
+    },
+    {
+      "country": "Japan",
+      "league": "B.League",
+      "teams": 24,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/f5/JBA_team_crest.png",
+      "leagueId": 15,
+      "id": 15
+    },
+    {
+      "country": "Lithuania",
+      "league": "LKL",
+      "teams": 12,
+      "logo": "https://logos-world.net/wp-content/uploads/2021/09/Betsafe-LKL-Emblem.png",
+      "leagueId": 16,
+      "id": 16
+    },
+    {
+      "country": "Norway",
+      "league": "BLNO",
+      "teams": 10,
+      "logo": "https://www.basketballdommer.com/images/stories/logoer/BLNOmenn-logo-499.png",
+      "leagueId": 17,
+      "id": 17
+    },
+    {
+      "country": "Poland",
+      "league": "Polska Liga Koszykówki",
+      "teams": 16,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCB0DbTH8EDDMIRr2xtCigNshdhIxxKmVJTA&s",
+      "leagueId": 18,
+      "id": 18
+    },
+    {
+      "country": "Serbia",
+      "league": "Basketball League of Serbia",
+      "teams": 14,
+      "logo": "https://play-lh.googleusercontent.com/lTivFtEDhw8zSnr9QlxuOlABddQskcMu-5isRpSd4bNb6kDkfJgO4lryRpRzluqnmHg=w600-h300-pc0xffffff-pd",
+      "leagueId": 19,
+      "id": 19
+    },
+    {
+      "country": "Slovenia",
+      "league": "Slovenian Basketball League",
+      "teams": 10,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOTFSRGSmFrglNzXu4mNgGRcm8D4h1ur-9cQ&s",
+      "leagueId": 20,
+      "id": 20
+    },
+    {
+      "country": "Spain",
+      "league": "Liga ACB",
+      "teams": 18,
+      "logo": "https://i.namu.wiki/i/t3zz7V6EBjnun6suqdPE6lFiVleVOm5-cOtGmm09x8YmvSkONA7NwedJaDcVuOEuB7Hi2C0j-Yl9iPK2KVn0DA.webp",
+      "leagueId": 21,
+      "id": 21
+    },
+    {
+      "country": "Turkey",
+      "league": "Basketball Super League",
+      "teams": 16,
+      "logo": "https://idsb.tmgrup.com.tr/2015/07/02/GenelBuyuk/1435864215391_rs.jpg",
+      "leagueId": 22,
+      "id": 22
+    },
+    {
+      "country": "United Kingdom",
+      "league": "British Basketball League",
+      "teams": 10,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Tl3QdYuEatRi-KFnJfAPUBpt29YGfd3YeQ&s",
+      "leagueId": 23,
+      "id": 23
+    },
+    {
+      "country": "Philippines",
+      "league": "PBA (Philippine Basketball Association)",
+      "teams": 12,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Philippine_Basketball_Association_%28logo%29.svg/800px-Philippine_Basketball_Association_%28logo%29.svg.png",
+      "leagueId": 24,
+      "id": 24
+    },
+    {
+      "country": "Europe",
+      "league": "EuroLeague",
+      "teams": 18,
+      "logo": "https://logosandtypes.com/wp-content/uploads/2023/03/Euroleague.png",
+      "id": 25,
+      "leagueId": 25
+    },
+    {
+      "country": "Europe",
+      "league": "Basketball Champions League",
+      "teams": 32,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOmROEBDDwKfbqlWbo5QxeHArC41Fgqft1_A&s",
+      "leagueId": 26,
+      "id": 26
+    },
+    {
+      "country": "Europe",
+      "league": "EuroCup",
+      "teams": 20,
+      "logo": "https://brandcenter.euroleague.net/uploads/2/brand_center_web/494/68//2023-07-07-12-40-7424.png",
+      "leagueId": 27,
+      "id": 27
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "name": "Real Madrid",
+      "country": "Spain",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png",
+      "leagueId": 25
+    },
+    {
+      "id": 2,
+      "name": "FC Barcelona",
+      "country": "Spain",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/800px-FC_Barcelona_%28crest%29.svg.png",
+      "leagueId": 25
+    },
+    {
+      "id": 3,
+      "name": "Olympiacos",
+      "country": "Greece",
+      "logo": "https://www.olympiacosbc.gr/images/logo.svg",
+      "leagueId": 25
+    },
+    {
+      "id": 4,
+      "name": "Panathinaikos",
+      "country": "Greece",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRndVPmkUUCL4kYgal7Ceo_akLsleoYsBJIBw&s",
+      "leagueId": 25
+    },
+    {
+      "id": 5,
+      "name": "Fenerbahçe",
+      "country": "Turkey",
+      "logo": "https://upload.wikimedia.org/wikipedia/lt/thumb/0/0b/Fenerbah%C3%A7e_Men%27s_Basketball_logo.svg/179px-Fenerbah%C3%A7e_Men%27s_Basketball_logo.svg.png?20210318123836",
+      "leagueId": 25
+    },
+    {
+      "id": 6,
+      "name": "Anadolu Efes",
+      "country": "Turkey",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Anadolu_Efes_SK_logo.svg/150px-Anadolu_Efes_SK_logo.svg.png",
+      "leagueId": 25
+    },
+    {
+      "id": 7,
+      "name": "AX Armani Exchange Milan",
+      "country": "Italy",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Pallacanestro_Olimpia_Milano_logo.svg/800px-Pallacanestro_Olimpia_Milano_logo.svg.png",
+      "leagueId": 25
+    },
+    {
+      "id": 8,
+      "name": "Virtus Bologna",
+      "country": "Italy",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Virtus_Bologna_logo.svg/180px-Virtus_Bologna_logo.svg.png",
+      "leagueId": 25
+    },
+    {
+      "id": 9,
+      "name": "AS Monaco",
+      "country": "Monaco",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/AS_Monaco_Basket_Logo.png/175px-AS_Monaco_Basket_Logo.png",
+      "leagueId": 25
+    },
+    {
+      "id": 10,
+      "name": "ASVEL Lyon-Villeurbanne",
+      "country": "France",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/LDLC_ASVEL_Basket_logo.png/105px-LDLC_ASVEL_Basket_logo.png",
+      "leagueId": 25
+    },
+    {
+      "id": 11,
+      "name": "Bayern Munich",
+      "country": "Germany",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Logo_FC_Bayern_M%C3%BCnchen_Basketball_ab_2022.png/200px-Logo_FC_Bayern_M%C3%BCnchen_Basketball_ab_2022.png",
+      "leagueId": 25
+    },
+    {
+      "id": 12,
+      "name": "ALBA Berlin",
+      "country": "Germany",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Alba_Berlin_logo.svg/200px-Alba_Berlin_logo.svg.png",
+      "leagueId": 25
+    },
+    {
+      "id": 13,
+      "name": "Crvena Zvezda",
+      "country": "Serbia",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/KK_Crvena_zvezda_logo.svg/800px-KK_Crvena_zvezda_logo.svg.png",
+      "leagueId": 25
+    },
+    {
+      "id": 14,
+      "name": "Partizan Belgrade",
+      "country": "Serbia",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/KK_Partizan_logo.svg/190px-KK_Partizan_logo.svg.png",
+      "leagueId": 25
+    },
+    {
+      "id": 15,
+      "name": "Maccabi Tel Aviv",
+      "country": "Israel",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Maccabi_Tel_Aviv_BC_logo.svg/1200px-Maccabi_Tel_Aviv_BC_logo.svg.png",
+      "leagueId": 25
+    },
+    {
+      "id": 16,
+      "name": "Zalgiris Kaunas",
+      "country": "Lithuania",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/1200px-BC_%C5%BDalgiris_logo.svg.png",
+      "leagueId": 25
+    },
+    {
+      "id": 17,
+      "name": "Baskonia",
+      "country": "Spain",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Saski_Baskonia.png/205px-Saski_Baskonia.png",
+      "leagueId": 25
+    },
+    {
+      "id": 18,
+      "name": "Paris basketball",
+      "country": "France",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Logo_Paris_Basketball.svg/800px-Logo_Paris_Basketball.svg.png",
+      "leagueId": 25
+    },
+    {
+      "id": 19,
+      "name": "Aris",
+      "logo": "https://media.api-sports.io/basketball/teams/606.png",
+      "country": {
+        "id": 18,
+        "name": "Greece",
+        "code": "GR",
+        "flag": "https://media.api-sports.io/flags/gr.svg"
+      },
+      "leagueId": 27
+    },
+    {
+      "id": 20,
+      "name": "Bahcesehir Kol.",
+      "logo": "https://media.api-sports.io/basketball/teams/1264.png",
+      "country": {
+        "id": 48,
+        "name": "Turkey",
+        "code": "TR",
+        "flag": "https://media.api-sports.io/flags/tr.svg"
+      },
+      "leagueId": 27
+    },
+    {
+      "id": 21,
+      "name": "BC Wolves",
+      "logo": "https://media.api-sports.io/basketball/teams/5561.png",
+      "country": {
+        "id": 27,
+        "name": "Lithuania",
+        "code": "LT",
+        "flag": "https://media.api-sports.io/flags/lt.svg"
+      },
+      "leagueId": 27
+    },
+    {
+      "id": 22,
+      "name": "Besiktas",
+      "logo": "https://media.api-sports.io/basketball/teams/1266.png",
+      "country": {
+        "id": 48,
+        "name": "Turkey",
+        "code": "TR",
+        "flag": "https://media.api-sports.io/flags/tr.svg"
+      },
+      "leagueId": 27
+    },
+    {
+      "id": 23,
+      "name": "Buducnost",
+      "logo": "https://media.api-sports.io/basketball/teams/1615.png",
+      "country": {
+        "id": 29,
+        "name": "Montenegro",
+        "code": "ME",
+        "flag": "https://media.api-sports.io/flags/me.svg"
+      },
+      "leagueId": 27
+    },
+    {
+      "id": 24,
+      "name": "Cedevita Olimpija",
+      "logo": "https://media.api-sports.io/basketball/teams/1800.png",
+      "country": {
+        "id": 43,
+        "name": "Slovenia",
+        "code": "SI",
+        "flag": "https://media.api-sports.io/flags/si.svg"
+      },
+      "leagueId": 27
+    },
+    {
+      "id": 25,
+      "name": "Cluj-Napoca",
+      "logo": "https://media.api-sports.io/basketball/teams/3419.png",
+      "country": {
+        "id": 38,
+        "name": "Romania",
+        "code": "RO",
+        "flag": "https://media.api-sports.io/flags/ro.svg"
+      },
+      "leagueId": 27
+    },
+    {
+      "id": 26,
+      "name": "Gran Canaria",
+      "logo": "https://media.api-sports.io/basketball/teams/2333.png",
+      "country": {
+        "id": 45,
+        "name": "Spain",
+        "code": "ES",
+        "flag": "https://media.api-sports.io/flags/es.svg"
+      },
+      "leagueId": 27
+    },
+    {
+      "id": 27,
+      "name": "Hamburg",
+      "logo": "https://media.api-sports.io/basketball/teams/529.png",
+      "country": {
+        "id": 17,
+        "name": "Germany",
+        "code": "DE",
+        "flag": "https://media.api-sports.io/flags/de.svg"
+      },
+      "leagueId": 27
+    },
+    {
+      "id": 28,
+      "name": "Hapoel Jerusalem",
+      "logo": "https://media.api-sports.io/basketball/teams/1792.png",
+      "country": {
+        "id": 5,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "leagueId": 27
+    },
+    {
+      "id": 29,
+      "name": "Hapoel Tel-Aviv",
+      "logo": "https://media.api-sports.io/basketball/teams/682.png",
+      "country": {
+        "id": 22,
+        "name": "Israel",
+        "code": "IL",
+        "flag": "https://media.api-sports.io/flags/il.svg"
+      },
+      "leagueId": 27
+    },
+    {
+      "id": 30,
+      "name": "JL Bourg",
+      "logo": "https://media.api-sports.io/basketball/teams/24.png",
+      "country": {
+        "id": 4,
+        "name": "France",
+        "code": "FR",
+        "flag": "https://media.api-sports.io/flags/fr.svg"
+      },
+      "leagueId": 27
+    },
+    {
+      "id": 31,
+      "name": "Joventut Badalona",
+      "logo": "https://media.api-sports.io/basketball/teams/2334.png",
+      "country": {
+        "id": 45,
+        "name": "Spain",
+        "code": "ES",
+        "flag": "https://media.api-sports.io/flags/es.svg"
+      },
+      "leagueId": 27
+    },
+    {
+      "id": 32,
+      "name": "Lietkabelis",
+      "logo": "https://media.api-sports.io/basketball/teams/790.png",
+      "country": {
+        "id": 27,
+        "name": "Lithuania",
+        "code": "LT",
+        "flag": "https://media.api-sports.io/flags/lt.svg"
+      },
+      "leagueId": 27
+    },
+    {
+      "id": 33,
+      "name": "Trefl Sopot",
+      "logo": "https://media.api-sports.io/basketball/teams/918.png",
+      "country": {
+        "id": 34,
+        "name": "Poland",
+        "code": "PL",
+        "flag": "https://media.api-sports.io/flags/pl.svg"
+      },
+      "leagueId": 27
+    },
+    {
+      "id": 34,
+      "name": "Trento",
+      "logo": "https://media.api-sports.io/basketball/teams/727.png",
+      "country": {
+        "id": 23,
+        "name": "Italy",
+        "code": "IT",
+        "flag": "https://media.api-sports.io/flags/it.svg"
+      },
+      "leagueId": 27
+    },
+    {
+      "id": 35,
+      "name": "Turk Telekom",
+      "logo": "https://media.api-sports.io/basketball/teams/1277.png",
+      "country": {
+        "id": 48,
+        "name": "Turkey",
+        "code": "TR",
+        "flag": "https://media.api-sports.io/flags/tr.svg"
+      },
+      "leagueId": 27
+    },
+    {
+      "id": 36,
+      "name": "Ulm",
+      "logo": "https://media.api-sports.io/basketball/teams/533.png",
+      "country": {
+        "id": 17,
+        "name": "Germany",
+        "code": "DE",
+        "flag": "https://media.api-sports.io/flags/de.svg"
+      },
+      "leagueId": 27
+    },
+    {
+      "id": 37,
+      "name": "Valencia",
+      "logo": "https://media.api-sports.io/basketball/teams/2341.png",
+      "country": {
+        "id": 45,
+        "name": "Spain",
+        "code": "ES",
+        "flag": "https://media.api-sports.io/flags/es.svg"
+      },
+      "leagueId": 27
+    },
+    {
+      "id": 38,
+      "name": "Venezia",
+      "logo": "https://media.api-sports.io/basketball/teams/731.png",
+      "country": {
+        "id": 23,
+        "name": "Italy",
+        "code": "IT",
+        "flag": "https://media.api-sports.io/flags/it.svg"
+      },
+      "leagueId": 27
+    }
+  ]
+}

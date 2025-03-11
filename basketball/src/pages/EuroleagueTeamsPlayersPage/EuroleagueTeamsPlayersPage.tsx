@@ -5,7 +5,6 @@ import {
   reducer,
 } from "./euroleagueTeamsPlayersReducer";
 import axios from "axios";
-import { API_KEY } from "../../api/NBATeams";
 
 const EuroleagueTeamsPlayersPage = () => {
   const [state, dispatch] = useReducer(reducer, initialState);
@@ -17,16 +16,10 @@ const EuroleagueTeamsPlayersPage = () => {
       try {
         dispatch({ type: actionTypes.FETCH });
         const { data } = await axios(
-          "https://v1.basketball.api-sports.io/players?team=796&season=2024",
-          {
-            headers: {
-              "x-rapidapi-host": "v1.basketball.api-sports.io",
-              "x-rapidapi-key": `${API_KEY}`,
-            },
-          }
+          "https://v1.basketball.api-sports.io/players?team=796&season=2024"
         );
 
-        console.log(data.response);
+        console.log(data);
 
         dispatch({ type: actionTypes.SUCCESS, payload: data.response });
       } catch {

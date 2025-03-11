@@ -1,7 +1,7 @@
 import "./App.css";
 import EastTeamsList from "./components/EasternConference/EasternConference";
 import NBATeamsList from "./components/NBATeamsList";
-import { NBATeamsContextProvider } from "./components/NBATeamsPage/NBATeamsPageContexProvider";
+import { NBATeamsContextProvider } from "./pages/NBATeamsPage/NBATeamsPageContexProvider";
 import WesternConferenceTeams from "./components/WesternConference/WesternConferenceTeams";
 
 function App() {

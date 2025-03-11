@@ -3,12 +3,8 @@ import {
   NBATeam,
   NBATeamsContextProviderProps,
   NBATeamsPageContextType,
-} from "../Types";
-import {
-  fetchAllNBATeams,
-  fetchEastNBATeams,
-  fetchWestNbaTeams,
-} from "../../api/NBATeams";
+} from "../../components/Types";
+import { fetchEastNBATeams, fetchWestNBATeams } from "../../api/NBATeams";
 
 const NBATeamsPageContext = createContext<NBATeamsPageContextType | undefined>(
   undefined
@@ -25,19 +21,13 @@ export const NBATeamsContextProvider: React.FC<
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const NBATeamsData = await fetchAllNBATeams();
-
-        if (Array.isArray(NBATeamsData.response)) {
-          setTeams(NBATeamsData.response);
-        }
-
         const eastTeamsData = await fetchEastNBATeams();
 
         if (Array.isArray(eastTeamsData)) {
           setEastTeams(eastTeamsData);
         }
 
-        const westTeamsData = await fetchWestNbaTeams();
+        const westTeamsData = await fetchWestNBATeams();
         // console.log("West teams data:", westTeamsData);
         if (Array.isArray(westTeamsData)) {
           setWestTeams(westTeamsData);

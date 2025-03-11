@@ -1,15 +1,12 @@
 import { ReactNode } from "react";
 
 export type NBATeam = {
-  id: number;
-  name: string;
+  id: string;
+  teamName: string;
   logo: string;
-  country: {
-    id: number;
-    name: string;
-    code: string;
-    flag: string;
-  };
+  city: string;
+  arena: string;
+  arenaImage: string;
 };
 
 export type NBATeamsPageContextType = {
@@ -38,4 +35,14 @@ export interface EuroleaguePlayer {
   name: string;
   number: string;
   position: string;
+}
+
+export interface Country {
+  name: string;
+  code: string;
+  flag: string;
+}
+
+export interface CountryProps {
+  data: Country;
 }

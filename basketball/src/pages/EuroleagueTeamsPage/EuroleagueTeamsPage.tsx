@@ -1,7 +1,7 @@
 import { useEffect, useReducer } from "react";
 import { actionTypes, initialState, reducer } from "./euroleagueTeamReducer";
 import axios from "axios";
-import { API_KEY } from "../../api/NBATeams";
+import { API_URL } from "../../api/config";
 
 const EuroleagueTeamsPage = () => {
   const [state, dispatch] = useReducer(reducer, initialState);
@@ -11,19 +11,11 @@ const EuroleagueTeamsPage = () => {
     const getEuroleagueTeamsData = async () => {
       try {
         dispatch({ type: actionTypes.FETCH });
-        const { data } = await axios(
-          "https://v1.basketball.api-sports.io/teams?league=120&season=2024",
-          {
-            headers: {
-              "x-rapidapi-host": "v1.basketball.api-sports.io",
-              "x-rapidapi-key": `${API_KEY}`,
-            },
-          }
-        );
+        const { data } = await axios(`${API_URL}/euroleague`);
 
-        console.log(data.response);
+        console.log(data.teams);
 
-        dispatch({ type: actionTypes.SUCCESS, payload: data.response });
+        dispatch({ type: actionTypes.SUCCESS, payload: data.teams });
       } catch {
         dispatch({ type: actionTypes.FAIL });
         throw new Error("Something went wrong");
@@ -47,7 +39,7 @@ const EuroleagueTeamsPage = () => {
           {teams.map((team) => (
             <li key={team.id}>
               {" "}
-              <h3>{team.name}</h3> <img src={team.logo} alt="" />
+              <h3>{team.name}</h3> <img src={team.logo} alt="" width="50px" />
             </li>
           ))}
         </ul>
