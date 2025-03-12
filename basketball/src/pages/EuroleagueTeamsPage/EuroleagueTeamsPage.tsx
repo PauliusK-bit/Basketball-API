@@ -11,11 +11,11 @@ const EuroleagueTeamsPage = () => {
     const getEuroleagueTeamsData = async () => {
       try {
         dispatch({ type: actionTypes.FETCH });
-        const { data } = await axios(`${API_URL}/euroleague`);
+        const { data } = await axios(`${API_URL}/teams?leagueId=25`);
 
-        console.log(data.teams);
+        console.log(data);
 
-        dispatch({ type: actionTypes.SUCCESS, payload: data.teams });
+        dispatch({ type: actionTypes.SUCCESS, payload: data });
       } catch {
         dispatch({ type: actionTypes.FAIL });
         throw new Error("Something went wrong");

@@ -1,5 +1,4 @@
 import { DotLottieReact } from "@lottiefiles/dotlottie-react";
-import CountriesList from "../../components/CountriesList";
 
 const HomePage = () => {
   return (
@@ -9,7 +8,6 @@ const HomePage = () => {
         loop
         autoplay
       /> */}
-      <CountriesList />
     </>
   );
 };

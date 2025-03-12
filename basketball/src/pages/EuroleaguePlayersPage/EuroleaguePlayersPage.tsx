@@ -6,7 +6,7 @@ import {
 } from "./euroleagueTeamsPlayersReducer";
 import axios from "axios";
 
-const EuroleagueTeamsPlayersPage = () => {
+const EuroleaguePlayersPage = () => {
   const [state, dispatch] = useReducer(reducer, initialState);
 
   const { players, error, loading } = state;
@@ -55,4 +55,4 @@ const EuroleagueTeamsPlayersPage = () => {
   );
 };
 
-export default EuroleagueTeamsPlayersPage;
+export default EuroleaguePlayersPage;

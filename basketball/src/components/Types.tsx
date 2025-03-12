@@ -7,6 +7,7 @@ export type NBATeam = {
   city: string;
   arena: string;
   arenaImage: string;
+  teamId: number;
 };
 
 export type NBATeamsPageContextType = {

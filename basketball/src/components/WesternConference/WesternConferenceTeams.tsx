@@ -18,7 +18,7 @@ const WesternConferenceTeams = () => {
       <h2>Vakarų konferencijos komandos</h2>
       <div style={{ display: "flex", flexWrap: "wrap", gap: "16px" }}>
         {westTeams.map((team) => (
-          <Card key={team.id} sx={{ maxWidth: 345 }}>
+          <Card key={team.teamId} sx={{ maxWidth: 345 }}>
             <CardActionArea>
               <CardMedia
                 component="img"

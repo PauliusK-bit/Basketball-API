@@ -23,6 +23,12 @@ const ProjectNavigation = () => {
               Euroleague teams
             </NavLink>
           </li>
+          <li className="nav-item">
+            <NavLink className="nav-link" to={"/"} end>
+              {" "}
+              Home Page
+            </NavLink>
+          </li>
         </ul>
       </nav>
     </div>

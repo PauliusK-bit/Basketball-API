@@ -153,7 +153,7 @@
   ],
   "eastConference": [
     {
-      "teamId": 1,
+      "teamId": 100,
       "teamName": "Boston Celtics",
       "city": "Boston",
       "arena": "TD Garden",
@@ -161,7 +161,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612738/primary/L/logo.svg"
     },
     {
-      "teamId": 2,
+      "teamId": 101,
       "teamName": "Brooklyn Nets",
       "city": "Brooklyn",
       "arena": "Barclays Center",
@@ -169,7 +169,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612751/primary/L/logo.svg"
     },
     {
-      "teamId": 3,
+      "teamId": 103,
       "teamName": "New York Knicks",
       "city": "New York",
       "arena": "Madison Square Garden",
@@ -177,7 +177,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612752/primary/L/logo.svg"
     },
     {
-      "teamId": 4,
+      "teamId": 104,
       "teamName": "Philadelphia 76ers",
       "city": "Philadelphia",
       "arena": "Wells Fargo Center",
@@ -185,7 +185,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612755/primary/L/logo.svg"
     },
     {
-      "teamId": 5,
+      "teamId": 105,
       "teamName": "Toronto Raptors",
       "city": "Toronto",
       "arena": "Scotiabank Arena",
@@ -193,7 +193,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612761/primary/L/logo.svg"
     },
     {
-      "teamId": 6,
+      "teamId": 106,
       "teamName": "Miami Heat",
       "city": "Miami",
       "arena": "FTX Arena",
@@ -201,7 +201,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612748/primary/L/logo.svg"
     },
     {
-      "teamId": 7,
+      "teamId": 107,
       "teamName": "Chicago Bulls",
       "city": "Chicago",
       "arena": "United Center",
@@ -209,7 +209,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612741/primary/L/logo.svg"
     },
     {
-      "teamId": 8,
+      "teamId": 108,
       "teamName": "Cleveland Cavaliers",
       "city": "Cleveland",
       "arena": "Rocket Mortgage FieldHouse",
@@ -217,7 +217,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612739/primary/L/logo.svg"
     },
     {
-      "teamId": 9,
+      "teamId": 109,
       "teamName": "Indiana Pacers",
       "city": "Indianapolis",
       "arena": "Gainbridge Fieldhouse",
@@ -225,7 +225,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612754/primary/L/logo.svg"
     },
     {
-      "teamId": 10,
+      "teamId": 110,
       "teamName": "Detroit Pistons",
       "city": "Detroit",
       "arena": "Little Caesars Arena",
@@ -233,7 +233,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612765/primary/L/logo.svg"
     },
     {
-      "teamId": 11,
+      "teamId": 111,
       "teamName": "Atlanta Hawks",
       "city": "Atlanta",
       "arena": "State Farm Arena",
@@ -241,7 +241,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612737/primary/L/logo.svg"
     },
     {
-      "teamId": 12,
+      "teamId": 112,
       "teamName": "Charlotte Hornets",
       "city": "Charlotte",
       "arena": "Spectrum Center",
@@ -249,7 +249,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612766/primary/L/logo.svg"
     },
     {
-      "teamId": 13,
+      "teamId": 113,
       "teamName": "Orlando Magic",
       "city": "Orlando",
       "arena": "Amway Center",
@@ -257,7 +257,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612753/primary/L/logo.svg"
     },
     {
-      "teamId": 14,
+      "teamId": 114,
       "teamName": "Washington Wizards",
       "city": "Washington",
       "arena": "Capital One Arena",
@@ -265,7 +265,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612764/primary/L/logo.svg"
     },
     {
-      "teamId": 15,
+      "teamId": 115,
       "teamName": "Milwaukee Bucks",
       "city": "Milwaukee",
       "arena": "Fiserv Forum",
@@ -275,7 +275,7 @@
   ],
   "westConference": [
     {
-      "teamId": 16,
+      "teamId": 116,
       "teamName": "Los Angeles Lakers",
       "city": "Los Angeles",
       "arena": "Crypto.com Arena",
@@ -283,7 +283,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612747/primary/L/logo.svg"
     },
     {
-      "teamId": 17,
+      "teamId": 117,
       "teamName": "Los Angeles Clippers",
       "city": "Los Angeles",
       "arena": "Crypto.com Arena",
@@ -291,7 +291,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612746/primary/L/logo.svg"
     },
     {
-      "teamId": 18,
+      "teamId": 118,
       "teamName": "Golden State Warriors",
       "city": "San Francisco",
       "arena": "Chase Center",
@@ -299,7 +299,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612744/primary/L/logo.svg"
     },
     {
-      "teamId": 19,
+      "teamId": 119,
       "teamName": "Phoenix Suns",
       "city": "Phoenix",
       "arena": "Footprint Center",
@@ -307,7 +307,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612756/primary/L/logo.svg"
     },
     {
-      "teamId": 20,
+      "teamId": 120,
       "teamName": "Denver Nuggets",
       "city": "Denver",
       "arena": "Ball Arena",
@@ -315,7 +315,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612743/primary/L/logo.svg"
     },
     {
-      "teamId": 21,
+      "teamId": 121,
       "teamName": "Portland Trail Blazers",
       "city": "Portland",
       "arena": "Moda Center",
@@ -323,7 +323,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612757/primary/L/logo.svg"
     },
     {
-      "teamId": 22,
+      "teamId": 122,
       "teamName": "Utah Jazz",
       "city": "Salt Lake City",
       "arena": "Vivint Arena",
@@ -331,7 +331,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612762/primary/L/logo.svg"
     },
     {
-      "teamId": 23,
+      "teamId": 123,
       "teamName": "Dallas Mavericks",
       "city": "Dallas",
       "arena": "American Airlines Center",
@@ -339,7 +339,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612742/primary/L/logo.svg"
     },
     {
-      "teamId": 24,
+      "teamId": 124,
       "teamName": "Minnesota Timberwolves",
       "city": "Minneapolis",
       "arena": "Target Center",
@@ -347,7 +347,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612750/primary/L/logo.svg"
     },
     {
-      "teamId": 25,
+      "teamId": 125,
       "teamName": "Oklahoma City Thunder",
       "city": "Oklahoma City",
       "arena": "Paycom Center",
@@ -355,7 +355,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612760/primary/L/logo.svg"
     },
     {
-      "teamId": 26,
+      "teamId": 126,
       "teamName": "Sacramento Kings",
       "city": "Sacramento",
       "arena": "Golden 1 Center",
@@ -363,7 +363,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612758/primary/L/logo.svg"
     },
     {
-      "teamId": 27,
+      "teamId": 127,
       "teamName": "Memphis Grizzlies",
       "city": "Memphis",
       "arena": "FedExForum",
@@ -371,7 +371,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612763/primary/L/logo.svg"
     },
     {
-      "teamId": 28,
+      "teamId": 128,
       "teamName": "New Orleans Pelicans",
       "city": "New Orleans",
       "arena": "Smoothie King Center",
@@ -379,7 +379,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612740/primary/L/logo.svg"
     },
     {
-      "teamId": 29,
+      "teamId": 129,
       "teamName": "San Antonio Spurs",
       "city": "San Antonio",
       "arena": "AT&T Center",
@@ -387,7 +387,7 @@
       "logo": "https://cdn.nba.com/logos/nba/1610612759/primary/L/logo.svg"
     },
     {
-      "teamId": 30,
+      "teamId": 130,
       "teamName": "Houston Rockets",
       "city": "Houston",
       "arena": "Toyota Center",
@@ -619,14 +619,17 @@
       "name": "Real Madrid",
       "country": "Spain",
       "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png",
-      "leagueId": 25
+      "leagueId": 25,
+      "teamId": 1
     },
+
     {
       "id": 2,
       "name": "FC Barcelona",
       "country": "Spain",
       "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/800px-FC_Barcelona_%28crest%29.svg.png",
-      "leagueId": 25
+      "leagueId": 25,
+      "teamId": 2
     },
     {
       "id": 3,
@@ -979,6 +982,989 @@
         "flag": "https://media.api-sports.io/flags/it.svg"
       },
       "leagueId": 27
+    },
+    {
+      "id": 794,
+      "name": "Rytas",
+      "logo": "https://media.api-sports.io/basketball/teams/794.png",
+      "nationnal": false,
+      "country": {
+        "id": 27,
+        "name": "Lithuania",
+        "code": "LT",
+        "flag": "https://media.api-sports.io/flags/lt.svg"
+      },
+      "leagueId": 26
+    },
+    {
+      "id": 6262,
+      "name": "Sabah Baku",
+      "logo": "https://media.api-sports.io/basketball/teams/6262.png",
+      "nationnal": false,
+      "country": {
+        "id": null,
+        "name": null,
+        "code": null,
+        "flag": null
+      },
+      "leagueId": 26
+    },
+    {
+      "id": 106,
+      "name": "Saint Quentin",
+      "logo": "https://media.api-sports.io/basketball/teams/106.png",
+      "nationnal": false,
+      "country": {
+        "id": 4,
+        "name": "France",
+        "code": "FR",
+        "flag": "https://media.api-sports.io/flags/fr.svg"
+      },
+      "leagueId": 26
+    },
+    {
+      "id": 726,
+      "name": "Sassari",
+      "logo": "https://media.api-sports.io/basketball/teams/726.png",
+      "nationnal": false,
+      "country": {
+        "id": 23,
+        "name": "Italy",
+        "code": "IT",
+        "flag": "https://media.api-sports.io/flags/it.svg"
+      },
+      "leagueId": 26
+    },
+    {
+      "id": 914,
+      "name": "Slask Wroclaw",
+      "logo": "https://media.api-sports.io/basketball/teams/914.png",
+      "nationnal": false,
+      "country": {
+        "id": 34,
+        "name": "Poland",
+        "code": "PL",
+        "flag": "https://media.api-sports.io/flags/pl.svg"
+      },
+      "leagueId": 26
+    },
+    {
+      "id": 6699,
+      "name": "Spartak Subotica",
+      "logo": "https://media.api-sports.io/basketball/teams/6699.png",
+      "nationnal": false,
+      "country": {
+        "id": 41,
+        "name": "Serbia",
+        "code": "RS",
+        "flag": "https://media.api-sports.io/flags/rs.svg"
+      },
+      "leagueId": 26
+    },
+    {
+      "id": 916,
+      "name": "Szczecin",
+      "logo": "https://media.api-sports.io/basketball/teams/916.png",
+      "nationnal": false,
+      "country": {
+        "id": 34,
+        "name": "Poland",
+        "code": "PL",
+        "flag": "https://media.api-sports.io/flags/pl.svg"
+      },
+      "leagueId": 26
+    },
+    {
+      "id": 605,
+      "name": "AEK Athens",
+      "logo": "https://media.api-sports.io/basketball/teams/605.png",
+      "nationnal": false,
+      "country": {
+        "id": 18,
+        "name": "Greece",
+        "code": "GR",
+        "flag": "https://media.api-sports.io/flags/gr.svg"
+      },
+      "leagueId": 26
+    },
+    {
+      "id": 300,
+      "name": "Antwerp Giants",
+      "logo": "https://media.api-sports.io/basketball/teams/300.png",
+      "nationnal": false,
+      "country": {
+        "id": 7,
+        "name": "Belgium",
+        "code": "BE",
+        "flag": "https://media.api-sports.io/flags/be.svg"
+      },
+      "leagueId": 26
+    },
+    {
+      "id": 480,
+      "name": "BC Kalev/Cramo",
+      "logo": "https://media.api-sports.io/basketball/teams/480.png",
+      "nationnal": false,
+      "country": {
+        "id": 14,
+        "name": "Estonia",
+        "code": "EE",
+        "flag": "https://media.api-sports.io/flags/ee.svg"
+      },
+      "leagueId": 26
+    },
+    {
+      "id": 486,
+      "name": "BC Nokia",
+      "logo": "https://media.api-sports.io/basketball/teams/486.png",
+      "nationnal": false,
+      "country": {
+        "id": 15,
+        "name": "Finland",
+        "code": "FI",
+        "flag": "https://media.api-sports.io/flags/fi.svg"
+      },
+      "leagueId": 26
+    },
+    {
+      "id": 1395,
+      "name": "Keravnos",
+      "logo": "https://media.api-sports.io/basketball/teams/1395.png",
+      "nationnal": false,
+      "country": {
+        "id": 54,
+        "name": "Cyprus",
+        "code": "CY",
+        "flag": "https://media.api-sports.io/flags/cy.svg"
+      },
+      "leagueId": 26
+    },
+    {
+      "id": 2336,
+      "name": "Murcia",
+      "logo": "https://media.api-sports.io/basketball/teams/2336.png",
+      "nationnal": false,
+      "country": {
+        "id": 45,
+        "name": "Spain",
+        "code": "ES",
+        "flag": "https://media.api-sports.io/flags/es.svg"
+      },
+      "leagueId": 26
+    },
+    {
+      "id": 1374,
+      "name": "Rilski Sportist",
+      "logo": "https://media.api-sports.io/basketball/teams/1374.png",
+      "nationnal": false,
+      "country": {
+        "id": 52,
+        "name": "Bulgaria",
+        "code": "BG",
+        "flag": "https://media.api-sports.io/flags/bg.svg"
+      },
+      "leagueId": 26
+    },
+    {
+      "id": 5561,
+      "name": "BC Wolves",
+      "logo": "https://media.api-sports.io/basketball/teams/5561.png",
+      "nationnal": false,
+      "leagueId": 16,
+      "country": {
+        "id": 27,
+        "name": "Lithuania",
+        "code": "LT",
+        "flag": "https://media.api-sports.io/flags/lt.svg"
+      }
+    },
+    {
+      "id": 2315,
+      "name": "Jonava",
+      "logo": "https://media.api-sports.io/basketball/teams/2315.png",
+      "nationnal": false,
+      "leagueId": 16,
+      "country": {
+        "id": 27,
+        "name": "Lithuania",
+        "code": "LT",
+        "flag": "https://media.api-sports.io/flags/lt.svg"
+      }
+    },
+    {
+      "id": 789,
+      "name": "Juventus",
+      "logo": "https://media.api-sports.io/basketball/teams/789.png",
+      "nationnal": false,
+      "leagueId": 16,
+      "country": {
+        "id": 27,
+        "name": "Lithuania",
+        "code": "LT",
+        "flag": "https://media.api-sports.io/flags/lt.svg"
+      }
+    },
+    {
+      "id": 790,
+      "name": "Lietkabelis",
+      "logo": "https://media.api-sports.io/basketball/teams/790.png",
+      "nationnal": false,
+      "leagueId": 16,
+      "country": {
+        "id": 27,
+        "name": "Lithuania",
+        "code": "LT",
+        "flag": "https://media.api-sports.io/flags/lt.svg"
+      }
+    },
+    {
+      "id": 807,
+      "name": "Mazeikiai",
+      "logo": "https://media.api-sports.io/basketball/teams/807.png",
+      "nationnal": false,
+      "leagueId": 16,
+      "country": {
+        "id": 27,
+        "name": "Lithuania",
+        "code": "LT",
+        "flag": "https://media.api-sports.io/flags/lt.svg"
+      }
+    },
+    {
+      "id": 791,
+      "name": "Neptunas",
+      "logo": "https://media.api-sports.io/basketball/teams/791.png",
+      "nationnal": false,
+      "leagueId": 16,
+      "country": {
+        "id": 27,
+        "name": "Lithuania",
+        "code": "LT",
+        "flag": "https://media.api-sports.io/flags/lt.svg"
+      }
+    },
+    {
+      "id": 792,
+      "name": "Nevezis",
+      "logo": "https://media.api-sports.io/basketball/teams/792.png",
+      "nationnal": false,
+      "leagueId": 16,
+      "country": {
+        "id": 27,
+        "name": "Lithuania",
+        "code": "LT",
+        "flag": "https://media.api-sports.io/flags/lt.svg"
+      }
+    },
+    {
+      "id": 794,
+      "name": "Rytas",
+      "logo": "https://media.api-sports.io/basketball/teams/794.png",
+      "nationnal": false,
+      "leagueId": 16,
+      "country": {
+        "id": 27,
+        "name": "Lithuania",
+        "code": "LT",
+        "flag": "https://media.api-sports.io/flags/lt.svg"
+      }
+    },
+    {
+      "id": 795,
+      "name": "Siauliai",
+      "logo": "https://media.api-sports.io/basketball/teams/795.png",
+      "nationnal": false,
+      "leagueId": 16,
+      "country": {
+        "id": 27,
+        "name": "Lithuania",
+        "code": "LT",
+        "flag": "https://media.api-sports.io/flags/lt.svg"
+      }
+    },
+    {
+      "id": 796,
+      "name": "Zalgiris Kaunas",
+      "logo": "https://media.api-sports.io/basketball/teams/796.png",
+      "nationnal": false,
+      "leagueId": 16,
+      "country": {
+        "id": 27,
+        "name": "Lithuania",
+        "code": "LT",
+        "flag": "https://media.api-sports.io/flags/lt.svg"
+      }
+    },
+    {
+      "id": 605,
+      "name": "AEK Athens",
+      "logo": "https://media.api-sports.io/basketball/teams/605.png",
+      "nationnal": false,
+      "leagueId": 12,
+      "country": {
+        "id": 18,
+        "name": "Greece",
+        "code": "GR",
+        "flag": "https://media.api-sports.io/flags/gr.svg"
+      }
+    },
+    {
+      "id": 606,
+      "name": "Aris",
+      "logo": "https://media.api-sports.io/basketball/teams/606.png",
+      "nationnal": false,
+      "leagueId": 12,
+      "country": {
+        "id": 18,
+        "name": "Greece",
+        "code": "GR",
+        "flag": "https://media.api-sports.io/flags/gr.svg"
+      }
+    },
+    {
+      "id": 590,
+      "name": "AS Karditsas",
+      "logo": "https://media.api-sports.io/basketball/teams/590.png",
+      "nationnal": false,
+      "leagueId": 12,
+      "country": {
+        "id": 18,
+        "name": "Greece",
+        "code": "GR",
+        "flag": "https://media.api-sports.io/flags/gr.svg"
+      }
+    },
+    {
+      "id": 610,
+      "name": "Kolossos Rhodes",
+      "logo": "https://media.api-sports.io/basketball/teams/610.png",
+      "nationnal": false,
+      "leagueId": 12,
+      "country": {
+        "id": 18,
+        "name": "Greece",
+        "code": "GR",
+        "flag": "https://media.api-sports.io/flags/gr.svg"
+      }
+    },
+    {
+      "id": 612,
+      "name": "Lavrio",
+      "logo": "https://media.api-sports.io/basketball/teams/612.png",
+      "nationnal": false,
+      "leagueId": 12,
+      "country": {
+        "id": 18,
+        "name": "Greece",
+        "code": "GR",
+        "flag": "https://media.api-sports.io/flags/gr.svg"
+      }
+    },
+    {
+      "id": 1529,
+      "name": "Maroussi",
+      "logo": "https://media.api-sports.io/basketball/teams/1529.png",
+      "nationnal": false,
+      "leagueId": 12,
+      "country": {
+        "id": 18,
+        "name": "Greece",
+        "code": "GR",
+        "flag": "https://media.api-sports.io/flags/gr.svg"
+      }
+    },
+    {
+      "id": 1542,
+      "name": "Olympiakos",
+      "logo": "https://media.api-sports.io/basketball/teams/1542.png",
+      "nationnal": false,
+      "leagueId": 12,
+      "country": {
+        "id": 18,
+        "name": "Greece",
+        "code": "GR",
+        "flag": "https://media.api-sports.io/flags/gr.svg"
+      }
+    },
+    {
+      "id": 614,
+      "name": "Panathinaikos",
+      "logo": "https://media.api-sports.io/basketball/teams/614.png",
+      "nationnal": false,
+      "leagueId": 12,
+      "country": {
+        "id": 18,
+        "name": "Greece",
+        "code": "GR",
+        "flag": "https://media.api-sports.io/flags/gr.svg"
+      }
+    },
+    {
+      "id": 615,
+      "name": "Panionios",
+      "logo": "https://media.api-sports.io/basketball/teams/615.png",
+      "nationnal": false,
+      "leagueId": 12,
+      "country": {
+        "id": 18,
+        "name": "Greece",
+        "code": "GR",
+        "flag": "https://media.api-sports.io/flags/gr.svg"
+      }
+    },
+    {
+      "id": 613,
+      "name": "PAOK",
+      "logo": "https://media.api-sports.io/basketball/teams/613.png",
+      "nationnal": false,
+      "leagueId": 12,
+      "country": {
+        "id": 18,
+        "name": "Greece",
+        "code": "GR",
+        "flag": "https://media.api-sports.io/flags/gr.svg"
+      }
+    },
+    {
+      "id": 616,
+      "name": "Peristeri",
+      "logo": "https://media.api-sports.io/basketball/teams/616.png",
+      "nationnal": false,
+      "leagueId": 12,
+      "country": {
+        "id": 18,
+        "name": "Greece",
+        "code": "GR",
+        "flag": "https://media.api-sports.io/flags/gr.svg"
+      }
+    },
+    {
+      "id": 617,
+      "name": "Promitheas",
+      "logo": "https://media.api-sports.io/basketball/teams/617.png",
+      "nationnal": false,
+      "leagueId": 12,
+      "country": {
+        "id": 18,
+        "name": "Greece",
+        "code": "GR",
+        "flag": "https://media.api-sports.io/flags/gr.svg"
+      }
+    }
+  ],
+  "players": [
+    {
+      "id": 7814,
+      "name": "Abalde Alberto",
+      "number": "6",
+      "country": "Spain",
+      "position": "Forward",
+      "age": 28,
+      "teamId": 1
+    },
+    {
+      "id": 7810,
+      "name": "Campazzo Facundo",
+      "number": "7",
+      "country": "Argentina",
+      "position": "Guard",
+      "age": 32,
+      "teamId": 1
+    },
+    {
+      "id": 54680,
+      "name": "D. Duru",
+      "number": null,
+      "country": null,
+      "position": null,
+      "age": null,
+      "teamId": 1
+    },
+    {
+      "id": 7815,
+      "name": "Deck Gabriel",
+      "number": "14",
+      "country": "Argentina",
+      "position": "Forward",
+      "age": 29,
+      "teamId": 1
+    },
+    {
+      "id": 7756,
+      "name": "Feliz Andres",
+      "number": "24",
+      "country": "Dominican Republic",
+      "position": "Guard",
+      "age": 26,
+      "teamId": 1
+    },
+    {
+      "id": 505,
+      "name": "Fernando Bruno",
+      "number": "24",
+      "country": "Angola",
+      "position": "Forward",
+      "age": 25,
+      "teamId": 1
+    },
+    {
+      "id": 54681,
+      "name": "G. Gimenez",
+      "number": null,
+      "country": null,
+      "position": null,
+      "age": null,
+      "teamId": 1
+    },
+    {
+      "id": 658,
+      "name": "Garuba Usman",
+      "number": "12",
+      "country": "Spain",
+      "position": "Center",
+      "age": 22,
+      "teamId": 1
+    },
+    {
+      "id": 16374,
+      "name": "H. Gonzalez",
+      "number": null,
+      "country": null,
+      "position": null,
+      "age": null,
+      "teamId": 1
+    },
+    {
+      "id": 1069,
+      "name": "Hezonja Mario",
+      "number": "11",
+      "country": "Real Madrid",
+      "position": "Forward",
+      "age": 29,
+      "teamId": 1
+    },
+    {
+      "id": 2583,
+      "name": "Ibaka Serge",
+      "number": "14",
+      "country": "Spain",
+      "position": "Center",
+      "age": 34,
+      "teamId": 1
+    },
+    {
+      "id": 7812,
+      "name": "Llull Sergio",
+      "number": "23",
+      "country": "Spain",
+      "position": "Guard",
+      "age": 36,
+      "teamId": 1
+    },
+    {
+      "id": 7817,
+      "name": "Musa Dzanan",
+      "number": "31",
+      "country": "Bosnia and Herzegovina",
+      "position": "Forward",
+      "age": 24,
+      "teamId": 1
+    },
+    {
+      "id": 7806,
+      "name": "Ndiaye Eli John",
+      "number": "30",
+      "country": "Senegal",
+      "position": "Center",
+      "age": 19,
+      "teamId": 1
+    },
+    {
+      "id": 4972,
+      "name": "Rathan-Mayes Xavier",
+      "number": "8",
+      "country": "Canada",
+      "position": "Guard",
+      "age": 29,
+      "teamId": 1
+    },
+    {
+      "id": 54136,
+      "name": "S. Gueye",
+      "number": null,
+      "country": null,
+      "position": null,
+      "age": null,
+      "teamId": 1
+    },
+    {
+      "id": 533,
+      "name": "Smith Jr. Dennis",
+      "number": "4",
+      "country": "USA",
+      "position": "Guard",
+      "age": 26,
+      "teamId": 1
+    },
+    {
+      "id": 7808,
+      "name": "Tavares Edy",
+      "number": "22",
+      "country": "Cape Verde",
+      "position": "Center",
+      "age": 31,
+      "teamId": 1
+    },
+    {
+      "id": 55806,
+      "name": "A. Butajevas",
+      "number": null,
+      "country": null,
+      "position": null,
+      "age": null,
+      "teamId": 2
+    },
+    {
+      "id": 7680,
+      "name": "Abrines Alex",
+      "number": "21",
+      "country": "Spain",
+      "position": "Guard",
+      "age": 30,
+      "teamId": 2
+    },
+    {
+      "id": 7847,
+      "name": "Anderson Justin",
+      "number": "5",
+      "country": "USA",
+      "position": "Guard",
+      "age": 30,
+      "teamId": 2
+    },
+    {
+      "id": 7681,
+      "name": "Brizuela Dario",
+      "number": "8",
+      "country": "Spain",
+      "position": "Guard",
+      "age": 29,
+      "teamId": 2
+    },
+    {
+      "id": 16373,
+      "name": "E. D. Sarr",
+      "number": null,
+      "country": null,
+      "position": null,
+      "age": null,
+      "teamId": 2
+    },
+    {
+      "id": 278,
+      "name": "Fall Youssoupha",
+      "number": "19",
+      "country": "Senegal",
+      "position": "Center",
+      "age": 29,
+      "teamId": 2
+    },
+    {
+      "id": 7678,
+      "name": "Hernangomez Willy",
+      "number": "14",
+      "country": "Spain",
+      "position": "Center",
+      "age": 29,
+      "teamId": 2
+    },
+    {
+      "id": 7684,
+      "name": "Laprovittola Nicolas",
+      "number": "20",
+      "country": "Argentina",
+      "position": "Guard",
+      "age": 34,
+      "teamId": 2
+    },
+    {
+      "id": 942,
+      "name": "Metu Chimezie",
+      "number": "4",
+      "country": "Nigeria",
+      "position": "Forward",
+      "age": 26,
+      "teamId": 2
+    },
+    {
+      "id": 2733,
+      "name": "Nunez Juan",
+      "number": "17",
+      "country": "Spain",
+      "position": "Guard",
+      "age": 19,
+      "teamId": 2
+    },
+    {
+      "id": 7689,
+      "name": "Parker Jabari",
+      "number": "22",
+      "country": "USA",
+      "position": "Forward",
+      "age": 29,
+      "teamId": 2
+    },
+    {
+      "id": 7690,
+      "name": "Parra Joel",
+      "number": "44",
+      "country": "Spain",
+      "position": "Forward",
+      "age": 23,
+      "teamId": 2
+    },
+    {
+      "id": 5145,
+      "name": "Punter Kevin",
+      "number": "7",
+      "country": "USA",
+      "position": "Guard",
+      "age": 30,
+      "teamId": 2
+    },
+    {
+      "id": 56302,
+      "name": "R. Villar",
+      "number": null,
+      "country": null,
+      "position": null,
+      "age": null,
+      "teamId": 2
+    },
+    {
+      "id": 57411,
+      "name": "S. Keita",
+      "number": null,
+      "country": null,
+      "position": null,
+      "age": null,
+      "teamId": 2
+    },
+    {
+      "id": 7686,
+      "name": "Satoransky Tomas",
+      "number": "13",
+      "country": "Czech Republic",
+      "position": "Guard",
+      "age": 32,
+      "teamId": 2
+    },
+    {
+      "id": 7692,
+      "name": "Vesely Jan",
+      "number": "6",
+      "country": "Czech Republic",
+      "position": "Forward",
+      "age": 33,
+      "teamId": 2
+    },
+    {
+      "id": 51452,
+      "name": "A. Watson",
+      "number": null,
+      "country": null,
+      "position": null,
+      "age": null,
+      "teamId": 100
+    },
+    {
+      "id": 51451,
+      "name": "B. Scheierman",
+      "number": null,
+      "country": null,
+      "position": null,
+      "age": null,
+      "teamId": 100
+    },
+    {
+      "id": 514,
+      "name": "Brown Jaylen",
+      "number": "7",
+      "country": "USA",
+      "position": "Guard",
+      "age": 27,
+      "teamId": 100
+    },
+    {
+      "id": 579,
+      "name": "Craig Torrey",
+      "number": "13",
+      "country": "USA",
+      "position": "Forward",
+      "age": 33,
+      "teamId": 100
+    },
+    {
+      "id": 515,
+      "name": "Davison JD",
+      "number": "20",
+      "country": "USA",
+      "position": "Guard",
+      "age": 21,
+      "teamId": 100
+    },
+    {
+      "id": 522,
+      "name": "Hauser Sam",
+      "number": "30",
+      "country": "USA",
+      "position": "Forward",
+      "age": 26,
+      "teamId": 100
+    },
+    {
+      "id": 516,
+      "name": "Holiday Jrue",
+      "number": "4",
+      "country": "USA",
+      "position": "Guard",
+      "age": 33,
+      "teamId": 100
+    },
+    {
+      "id": 511,
+      "name": "Horford Al",
+      "number": "42",
+      "country": "Dominican Republic",
+      "position": "Center",
+      "age": 37,
+      "teamId": 100
+    },
+    {
+      "id": 512,
+      "name": "Kornet Luke",
+      "number": "40",
+      "country": "USA",
+      "position": "Center",
+      "age": 28,
+      "teamId": 100
+    },
+    {
+      "id": 15335,
+      "name": "M. Norris",
+      "number": null,
+      "country": null,
+      "position": null,
+      "age": null,
+      "teamId": 100
+    },
+    {
+      "id": 524,
+      "name": "Peterson Drew",
+      "number": "13",
+      "country": "USA",
+      "position": "Forward",
+      "age": 24,
+      "teamId": 100
+    },
+    {
+      "id": 525,
+      "name": "Porzingis Kristaps",
+      "number": "8",
+      "country": "Latvia",
+      "position": "Forward",
+      "age": 28,
+      "teamId": 100
+    },
+    {
+      "id": 517,
+      "name": "Pritchard Payton",
+      "number": "11",
+      "country": "USA",
+      "position": "Guard",
+      "age": 26,
+      "teamId": 100
+    },
+    {
+      "id": 513,
+      "name": "Queta Neemias",
+      "number": "88",
+      "country": "Portugal",
+      "position": "Center",
+      "age": 24,
+      "teamId": 100
+    },
+    {
+      "id": 15267,
+      "name": "R. Harper",
+      "number": null,
+      "country": null,
+      "position": null,
+      "age": null,
+      "teamId": 100
+    },
+    {
+      "id": 854,
+      "name": "Skapintsev Dmytro",
+      "number": "14",
+      "country": "Ukraine",
+      "position": "Center",
+      "age": 25,
+      "teamId": 100
+    },
+    {
+      "id": 518,
+      "name": "Springer Jaden",
+      "number": "44",
+      "country": "USA",
+      "position": "Guard",
+      "age": 21,
+      "teamId": 100
+    },
+    {
+      "id": 526,
+      "name": "Tatum Jayson",
+      "number": null,
+      "country": "USA",
+      "position": "Forward",
+      "age": 26,
+      "teamId": 100
+    },
+    {
+      "id": 527,
+      "name": "Tillman Xavier",
+      "number": "26",
+      "country": "USA",
+      "position": "Forward",
+      "age": 25,
+      "teamId": 100
+    },
+    {
+      "id": 535,
+      "name": "Walker Lonnie",
+      "number": "8",
+      "country": "USA",
+      "position": "Guard",
+      "age": 25,
+      "teamId": 100
+    },
+    {
+      "id": 519,
+      "name": "Walsh Jordan",
+      "number": "27",
+      "country": "USA",
+      "position": "Guard",
+      "age": 20,
+      "teamId": 100
+    },
+    {
+      "id": 520,
+      "name": "White Derrick",
+      "number": "9",
+      "country": "USA",
+      "position": "Guard",
+      "age": 29,
+      "teamId": 100
     }
   ]
 }
